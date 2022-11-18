@@ -4,6 +4,7 @@
 
  - Get Xor Keys from libil2cpp.so (you can xorkeys offset from IDA and find keys in HxD)
  - Paste it in .py file
+ ``` Note: in new Standoff 2 versions you no need to decrypt metadata ```
 
 ![XorKeysExample](https://user-images.githubusercontent.com/33353036/202772948-65f5c5a9-9d1e-407f-a552-4960f4ff73ce.png)
  - Run .py file, input metadata path and save path
