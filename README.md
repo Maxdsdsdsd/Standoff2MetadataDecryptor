@@ -31,3 +31,6 @@
  - Its all, now you can paste xorkeys in .py file
  
  ![изображение](https://user-images.githubusercontent.com/33353036/202775899-d8236c9a-90a4-4d7e-b615-7d99c1e21b4f.png)
+
+## Contacts
+https://t.me/nightyshell
