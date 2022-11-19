@@ -1,6 +1,7 @@
 # Welcome  
 
  ``` Note: in new Standoff 2 versions you no need to decrypt metadata ```
+ 
  ``` Also now available 2 decryption modes: Auto and Input ```
 
 ## Using Input Method
