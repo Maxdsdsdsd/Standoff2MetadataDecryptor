@@ -1,14 +1,18 @@
 # Welcome  
 
-## Using
-
- - Get Xor Keys from libil2cpp.so (you can xorkeys offset from IDA and find keys in HxD)
- - Paste it in .py file
- 
  ``` Note: in new Standoff 2 versions you no need to decrypt metadata ```
 
+## Using Input Method
+
+ - Get Xor Keys from libil2cpp.so (you can xorkeys offset from IDA and find keys in HxD)
+ - Run .py file, input metadata path, Xor Keys and save path
+
 ![XorKeysExample](https://user-images.githubusercontent.com/33353036/202772948-65f5c5a9-9d1e-407f-a552-4960f4ff73ce.png)
- - Run .py file, input metadata path and save path
+ - Profit
+
+## Using Auto Method
+
+ - Run .py file, input metadata path, libil2cpp.so path and save path
  - Profit
 
 ## How to get Xor Keys without IDA
